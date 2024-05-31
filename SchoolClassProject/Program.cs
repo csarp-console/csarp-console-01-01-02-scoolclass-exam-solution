@@ -27,5 +27,5 @@ schoolClassRepo.Add(d9);
 
 Console.WriteLine("12. feladat");
 Console.WriteLine($"A {schoolClassRepo.MostPaidSchoolClass()} -ban fizetik a legnagyobb osztálypénzt.");
-
+Console.WriteLine("13. feladat");
 schoolClassRepo.FeePerSchoolClass();
